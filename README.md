@@ -28,6 +28,3 @@ The project is able to :
 - **Dev Environment** in us-east-1 (Cloud9 IDE + café app + MariaDB + Secrets Manager)
 - **Prod Environment** in us-west-2 (AMI-launched instance + café app + MariaDB + Secrets Manager)
 - Both accessible to café customers over the internet
-
-### Diagram
-![Architecture Diagram](architecture-diagram.png)
